@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{60D2D96A-5B39-402E-8A07-945F64AF46C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XYZCompanyAssetsManagement/Repositories/EmpDetailsRepository.cs">
+    <Files>
+      <File FileName="XYZCompanyAssetsManagement/Controllers/AssetsDetailsController.cs" Line="12" Column="20" />
+      <File FileName="XYZCompanyAssetsManagement/Repositories/EmpDetailsRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XYZCompany" expanded="True">
+            <Node name="XYZCompanyAssetsManagement" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="EmpDetailsRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XYZCompanyAssetsManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
